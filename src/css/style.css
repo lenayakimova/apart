@@ -6,11 +6,12 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-@import url(c:\Users\админ\Desktop\apar\apart\src\sass\animate\_base.css);
-@import url(c:\Users\админ\Desktop\apar\apart\src\sass\animate\fading_entrances\fadeInLeft.css);
-@import url(c:\Users\админ\Desktop\apar\apart\src\sass\animate\fading_entrances\fadeInRight.css);
-@import url(c:\Users\админ\Desktop\apar\apart\src\sass\animate\fading_entrances\fadeInUp.css);
-@import url(c:\Users\админ\Desktop\apar\apart\src\sass\animate\zooming_entrances\zoomIn.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\_base.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\fading_entrances\fadeInLeft.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\fading_entrances\fadeInRight.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\fading_entrances\fadeInUp.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\fading_entrances\fadeInDown.css);
+@import url(c:\Users\админ\Desktop\apart\apart\src\sass\animate\zooming_entrances\zoomIn.css);
 html {
   line-height: 1.15;
   /* 1 */
